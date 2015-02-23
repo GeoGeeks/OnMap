@@ -1,4 +1,5 @@
 ﻿using Coll.Security;
+using Esri.ArcGISRuntime;
 using Esri.ArcGISRuntime.Security;
 using System;
 using System.Collections.Generic;
@@ -33,6 +34,19 @@ namespace Coll
 
         public MainPage()
         {
+            if (!ArcGISRuntimeEnvironment.IsInitialized)
+            {
+                Esri.ArcGISRuntime.ArcGISRuntimeEnvironment.ClientId = "bUv7kOSXYaOEt9fV";
+                try
+                {
+                    Esri.ArcGISRuntime.ArcGISRuntimeEnvironment.Initialize();
+                }
+                catch (Exception ex)
+                {
+                    var _x = new MessageDialog("No se puede inicializar el Id de cliente. " + ex.Message).ShowAsync();
+                }
+            }
+            
             this.InitializeComponent();
 
             Current = this;

@@ -220,7 +220,7 @@
                             <TextBlock Margin="10" HorizontalAlignment="Left" FontSize="16" TextWrapping="WrapWholeWords" >
                                 - Inicie la función de Ubicación para tener acceso a todas las funcionalidades.<LineBreak/>
                                 <LineBreak/>
-                                - Mantenga presionado unos segundos una ubicación en el mapa para añadir un punto, ver la dirección  tner acceso las opciones disponibles.<LineBreak/>
+                                - Mantenga presionado unos segundos una ubicación en el mapa para añadir un punto, ver la dirección y tener acceso las opciones disponibles.<LineBreak/>
                                 <LineBreak/>
                                 - Use la opción "Buscar" para encontrar una dirección.<LineBreak/>
                                 <LineBreak/>

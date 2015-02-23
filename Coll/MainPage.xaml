@@ -1,0 +1,64 @@
+﻿<Page
+    x:Class="Coll.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Coll"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid Background="#26263A">
+            <StackPanel VerticalAlignment="Center" Width="350">
+                <Image Source="Assets/logo-19.png" Height="190" Width="250" Margin="0,0,0,60"/>
+                <ComboBox x:Name="UrlComboBox" Foreground="Black" Background="#FFFFFF" />
+                <Button x:Name="Start" Content="Iniciar" Click="Start_Click" HorizontalAlignment="Center" />
+            </StackPanel>
+        </Grid>
+        <Grid x:Name="LoadingRing" Visibility="Collapsed" Background="Black" Opacity=".5">
+            <ProgressRing IsActive="True" Background="Transparent"/>
+        </Grid>
+    </Grid>
+    
+    
+    
+    <Page.BottomAppBar>
+        <CommandBar x:Name="MainBottomAppBar" Background="#30C6A2">
+            <AppBarButton Label="Agregar URL" Icon="Add">
+                <AppBarButton.Flyout>
+                    <Flyout x:Name="AddUrlFlyout" Placement="Full">
+                        <Grid Background="#26263A">
+                            <StackPanel VerticalAlignment="Center" Width="350">
+                                <TextBox x:Name="NewUrlTextBox" InputScope="Url" Header="Url" Text="http://" />
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+                                    <Button x:Name="AddUrlButton" Content="Ok" Click="AddUrlButton_Click" Margin="10" />
+                                    <Button x:Name="CancelAddUrl" Content="Cancelar" Click="CancelAddUrl_Click" Margin="10"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+                    </Flyout>
+                </AppBarButton.Flyout>
+            </AppBarButton>
+            <AppBarButton x:Name="RemoveUrlButton" Label="Borrar URL" Icon="Remove" Click="RemoveUrlButton_Click" />
+            <AppBarButton Label="Ayuda" Icon="Help" >
+                <AppBarButton.Flyout>
+                    <Flyout Placement="Full">
+                        <StackPanel Orientation="Vertical">
+                            <TextBlock Text="OnMap" Margin="5" FontSize="20" FontWeight="Bold"/>
+                            <TextBlock Margin="10" HorizontalAlignment="Left" FontSize="16" TextWrapping="WrapWholeWords" TextAlignment="Justify">                                          
+                                OnMap, es una aplicación que le permite visualizar y editar sus mapas web de ArcGIS. Agregue Url's de cuetas de ArcGIS o use el portal de ArcGIS Online para conectarse.
+                                Una vez haya validado sus credenciales de ArcGIS, usted podrá referenciar su ubicación, realizar trazado de rutas encontrar direcciones y agregar nuevos puntos a sus mapas de ArcGIS.<LineBreak/>
+                                <LineBreak/>                                
+                                El código está disponible para consulta y modificación en <Hyperlink NavigateUri="https://github.com/GeoGeeks/OnMap">https://github.com/GeoGeeks/OnMap</Hyperlink> <LineBreak/>
+                                <LineBreak/>
+                                Para mayor información, no olvide seguirnos en la cuenta de Twitter @geo_geeks o en el portal de desarrolladores <Hyperlink NavigateUri="http://desarrolladores.esri.co">http://desarrolladores.esri.co</Hyperlink>.<LineBreak/>
+                            </TextBlock>
+                            <Button x:Name="RateUsButton" Content="Califíquenos" HorizontalAlignment="Center" Click="RateUsButton_Click"/>
+                        </StackPanel>
+                    </Flyout>
+                </AppBarButton.Flyout>
+            </AppBarButton>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>

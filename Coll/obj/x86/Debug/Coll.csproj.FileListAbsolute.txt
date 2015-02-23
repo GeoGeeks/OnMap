@@ -1,0 +1,199 @@
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\bin\x86\Debug\App.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\bin\x86\Debug\MainPage.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\bin\x86\Debug\PortalSearch.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\bin\x86\Debug\Coll.xr.xml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\bin\x86\Debug\Coll.exe
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\bin\x86\Debug\Coll.pdb
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\bin\x86\Debug\resources.pri
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\bin\x86\Debug\AppxManifest.xml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\bin\x86\Debug\Coll.build.appxrecipe
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\bin\x86\Debug\Esri.ArcGISRuntime.dll
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\bin\x86\Debug\Esri.ArcGISRuntime.xml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\bin\x86\Debug\RuntimeCoreNet.winmd
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\App.g.i.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\App.g.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\MainPage.g.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\PortalSearch.g.i.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\PortalSearch.g.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\App.xaml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\MainPage.xaml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\PortalSearch.xaml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\App.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\MainPage.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\PortalSearch.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\Coll.exe
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\Coll.pdb
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\Coll.csproj.GenerateResource.Cache
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\priconfig.xml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\layout.resfiles
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\resources.resfiles
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\pri.resfiles
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\qualifiers.txt
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll\Coll\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\App.g.i.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\App.g.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\MainPage.g.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\MapPage.g.i.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\MapPage.g.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\PortalSearch.g.i.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\PortalSearch.g.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\App.xaml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\MainPage.xaml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\PortalSearch.xaml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\App.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\MainPage.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\PortalSearch.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\Coll.exe
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\Coll.pdb
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\MapPage.xaml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo\Coll\obj\x86\Debug\MapPage.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\App.g.i.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\App.g.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MainPage.g.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MapPage.g.i.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MapPage.g.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\PortalSearch.g.i.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\PortalSearch.g.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\App.xaml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MainPage.xaml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\PortalSearch.xaml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\App.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MainPage.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\PortalSearch.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\Coll.exe
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\Coll.pdb
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MapPage.xaml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MapPage.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\App.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\MainPage.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\MapPage.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\PortalSearch.xbf
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\Coll.xr.xml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\Coll.exe
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\Coll.pdb
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\resources.pri
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\AppxManifest.xml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\Coll.build.appxrecipe
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\Esri.ArcGISRuntime.dll
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\Esri.ArcGISRuntime.xml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\RuntimeCoreNet.winmd
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\Coll.csproj.GenerateResource.Cache
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\priconfig.xml
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\layout.resfiles
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\resources.resfiles
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\pri.resfiles
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\qualifiers.txt
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\App.xbf
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\MainPage.xbf
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\MapPage.xbf
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\PortalSearch.xbf
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\Coll.xr.xml
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\Coll.exe
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\Coll.pdb
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\resources.pri
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\AppxManifest.xml
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\Coll.build.appxrecipe
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\Esri.ArcGISRuntime.dll
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\Esri.ArcGISRuntime.xml
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\bin\x86\Debug\RuntimeCoreNet.winmd
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\App.g.i.cs
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\App.g.cs
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MainPage.g.cs
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MapPage.g.i.cs
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MapPage.g.cs
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\PortalSearch.g.i.cs
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\PortalSearch.g.cs
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\App.xaml
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MainPage.xaml
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MapPage.xaml
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\PortalSearch.xaml
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\App.xbf
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MainPage.xbf
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MapPage.xbf
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\PortalSearch.xbf
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\Coll.exe
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\Coll.pdb
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\Coll.csproj.GenerateResource.Cache
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\priconfig.xml
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\layout.resfiles
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\resources.resfiles
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\pri.resfiles
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\qualifiers.txt
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\JuanCamilo\Desktop\Coll - Ruteo - BaseMap\Coll\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\Coll.exe
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\Coll.pdb
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\x86\Debug\App.xbf
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\x86\Debug\MainPage.xbf
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\x86\Debug\MapPage.xbf
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\x86\Debug\PortalSearch.xbf
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\x86\Debug\Coll.xr.xml
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\x86\Debug\Coll.exe
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\x86\Debug\Coll.pdb
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\x86\Debug\resources.pri
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\x86\Debug\AppxManifest.xml
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\x86\Debug\Coll.build.appxrecipe
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\x86\Debug\Esri.ArcGISRuntime.dll
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\x86\Debug\Esri.ArcGISRuntime.xml
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\x86\Debug\RuntimeCoreNet.winmd
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\App.g.i.cs
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\App.g.cs
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\MainPage.g.cs
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\MapPage.g.i.cs
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\MapPage.g.cs
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\PortalSearch.g.i.cs
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\PortalSearch.g.cs
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\App.xaml
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\MainPage.xaml
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\MapPage.xaml
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\PortalSearch.xaml
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\App.xbf
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\MainPage.xbf
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\MapPage.xbf
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\PortalSearch.xbf
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\Coll.csproj.GenerateResource.Cache
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\priconfig.xml
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\layout.resfiles
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\resources.resfiles
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\pri.resfiles
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\qualifiers.txt
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\x86\Debug\ProjectArchitectures.txt

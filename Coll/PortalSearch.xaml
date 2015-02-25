@@ -97,7 +97,7 @@
             <AppBarButton Label="Ayuda" Icon="Help">
                 <AppBarButton.Flyout>
                     <Flyout>
-                        <StackPanel Orientation="Vertical" Height="250">
+                        <StackPanel Orientation="Vertical" Height="300">
                             <TextBlock Text="Portal" Margin="5" FontSize="20" FontWeight="Bold"/>
                             <TextBlock Margin="10" HorizontalAlignment="Left" FontSize="16" TextWrapping="WrapWholeWords" >
                                 - Esta pantalla muestra los Web Maps alojados en su carpeta principal.<LineBreak/>

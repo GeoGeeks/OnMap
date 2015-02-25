@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="44024GeoGeeks.OnMap" Publisher="CN=ACC8598F-73C7-4668-850D-FDBEB0172BA4" Version="1.1.0.0" ProcessorArchitecture="x86" />
+  <Identity Name="44024GeoGeeks.OnMap" Publisher="CN=ACC8598F-73C7-4668-850D-FDBEB0172BA4" Version="1.1.0.0" ProcessorArchitecture="arm" />
   <mp:PhoneIdentity PhoneProductId="eb6aee7a-2481-467e-8145-58c8cb4cca60" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>OnMap</DisplayName>
@@ -36,7 +36,7 @@
     <DeviceCapability Name="webcam" />
   </Capabilities>
   <Dependencies>
-    <PackageDependency Name="Microsoft.VCLibs.120.00.Phone.Debug" MinVersion="12.0.30113.0" />
+    <PackageDependency Name="Microsoft.VCLibs.120.00.Phone" MinVersion="12.0.30113.0" />
   </Dependencies>
   <Extensions>
     <Extension Category="windows.activatableClass.inProcessServer">

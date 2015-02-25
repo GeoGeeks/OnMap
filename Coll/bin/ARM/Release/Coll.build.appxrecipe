@@ -4,22 +4,22 @@
     <Machine>SEMILLERO2</Machine>
     <WindowsUser>SEMILLERO</WindowsUser>
     <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
-    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
-    <PackageArchitecture>x86</PackageArchitecture>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
     <PackageIdentityName>eb6aee7a-2481-467e-8145-58c8cb4cca60</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\SEMILLERO\Desktop\OnMap\Coll\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\SEMILLERO\Desktop\OnMap\Coll\obj\ARM\Release\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\x86\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\x86\Debug\Coll.exe">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Release\Coll.exe">
       <PackagePath>Coll.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\References\CommonConfiguration\x86\Esri.ArcGISRuntime.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\References\CommonConfiguration\ARM\Esri.ArcGISRuntime.dll">
       <PackagePath>Esri.ArcGISRuntime.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\References\CommonConfiguration\neutral\RuntimeCoreNet.winmd">
@@ -121,7 +121,7 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tex_quad_shader_program_vs_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\tex_quad_shader_program_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\x86\RuntimeCoreNet.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\ARM\RuntimeCoreNet.dll">
       <PackagePath>RuntimeCoreNet.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\Assets\CollPin.png">
@@ -157,40 +157,40 @@
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Release\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Release\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\x86\Debug\MapPage.xbf">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Release\MapPage.xbf">
       <PackagePath>MapPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\x86\Debug\PortalSearch.xbf">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Release\PortalSearch.xbf">
       <PackagePath>PortalSearch.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\x86\Debug\Coll.xr.xml">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Release\Coll.xr.xml">
       <PackagePath>Coll.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
-      <Name>Microsoft.VCLibs.120.00.Phone.Debug</Name>
+      <Name>Microsoft.VCLibs.120.00.Phone</Name>
       <Version>12.0.30113.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone.Debug, MinVersion = 12.0.30113.0</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.Phone.appx</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.Phone.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
-      <Name>Microsoft.VCLibs.120.00.Phone.Debug</Name>
+      <Name>Microsoft.VCLibs.120.00.Phone</Name>
       <Version>12.0.30113.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone.Debug, MinVersion = 12.0.30113.0</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.Phone.appx</AppxLocation>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.Phone.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
   </ItemGroup>

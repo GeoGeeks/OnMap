@@ -23,6 +23,7 @@ using Windows.ApplicationModel.Activation;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.Phone.UI.Input;
+using Windows.Storage.Streams;
 using Windows.UI;
 using Windows.UI.Popups;
 using Windows.UI.Xaml;
@@ -36,9 +37,6 @@ using Windows.UI.Xaml.Navigation;
 
 namespace Coll
 {
-    /// <summary>
-    /// A map page that can be used on its own or navigated to within a Frame.
-    /// </summary>
     public sealed partial class MapPage : Windows.UI.Xaml.Controls.Page, IFileOpenPickerContinuable
     {
         private const string OnlineLocatorUrl = "http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer";
@@ -274,7 +272,6 @@ namespace Coll
                 if (!string.IsNullOrWhiteSpace(message))
                 {
                     var result = message;
-                    //Dictionary<String, String> res = new Dictionary<string, string>() { { "Title", _layer.DisplayName }, {"Message", message} };
                     var overlay = new ContentControl() { HorizontalAlignment = HorizontalAlignment.Right, VerticalAlignment = VerticalAlignment.Top };
                     overlay.Template = LayoutRoot.Resources["PopUpTipTemplate"] as ControlTemplate;
                     overlay.DataContext = result;
@@ -538,8 +535,6 @@ namespace Coll
                         }
                         catch (Exception)
                         {
-                            //var x = _table.Schema.Fields.Where(u => u.Name == item.Key.ToString()).FirstOrDefault().Type;
-                            //Convert.ChangeType(value, x);
                             switch(_table.Schema.Fields.Where(u => u.Name == item.Key.ToString()).FirstOrDefault().Type){
                                 case Esri.ArcGISRuntime.Data.FieldType.Integer:                                    
                                     feature.Attributes[item.Key] = Convert.ToInt32(value);
@@ -553,7 +548,6 @@ namespace Coll
                                 default:
                                     throw;
                             }
-                            //throw;
                         }
                     }
                         
@@ -625,14 +619,18 @@ namespace Coll
             // Open the file picker.
             openPicker.PickSingleFileAndContinue();
         }
-        public void ContinueFileOpenPicker(FileOpenPickerContinuationEventArgs args)
+        public async void ContinueFileOpenPicker(FileOpenPickerContinuationEventArgs args)
         {
             if (args.Files.Count > 0)
             {
-                //displayImage.Text = args.Files[0].Path;
                 Foto = args.Files[0];
-                BitmapImage x = new BitmapImage() { UriSource = new Uri(args.Files[0].Path) };
-                displayImagePreview.Source = x;
+                using (IRandomAccessStream fileStream = await args.Files[0].OpenAsync(Windows.Storage.FileAccessMode.Read))
+                {
+                    // Set the image source to the selected bitmap 
+                    BitmapImage bitmapImage = new BitmapImage();
+                    await bitmapImage.SetSourceAsync(fileStream);
+                    displayImagePreview.Source = bitmapImage;
+                } 
             }
             else
             {

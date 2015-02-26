@@ -6,17 +6,17 @@
     <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
     <PackageArchitecture>arm</PackageArchitecture>
-    <PackageIdentityName>aa18b3f9-effa-4005-ba5a-b51978a4df3e</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\obj\ARM\Debug\</IntermediateOutputPath>
+    <PackageIdentityName>eb6aee7a-2481-467e-8145-58c8cb4cca60</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\SEMILLERO\Desktop\OnMap\Coll\obj\ARM\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\ARM\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\ARM\Debug\Coll.exe">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Debug\Coll.exe">
       <PackagePath>Coll.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\References\CommonConfiguration\ARM\Esri.ArcGISRuntime.dll">
@@ -124,55 +124,55 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\ARM\RuntimeCoreNet.dll">
       <PackagePath>RuntimeCoreNet.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\Assets\CollPin.png">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\Assets\CollPin.png">
       <PackagePath>Assets\CollPin.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\Assets\logo-19.png">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\Assets\logo-19.png">
       <PackagePath>Assets\logo-19.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\Assets\logo-20.png">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\Assets\logo-20.png">
       <PackagePath>Assets\logo-20.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\Assets\Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\Assets\SmallLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\Assets\SplashScreen.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\Assets\SplashScreen.scale-240.png">
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\Assets\Square71x71Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\Assets\Square71x71Logo.scale-240.png">
       <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\Assets\StoreLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\Assets\StoreLogo.scale-240.png">
       <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\Assets\WideLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\Assets\WideLogo.scale-240.png">
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\ARM\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\ARM\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\ARM\Debug\MapPage.xbf">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Debug\MapPage.xbf">
       <PackagePath>MapPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\ARM\Debug\PortalSearch.xbf">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Debug\PortalSearch.xbf">
       <PackagePath>PortalSearch.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\ARM\Debug\Coll.xr.xml">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Debug\Coll.xr.xml">
       <PackagePath>Coll.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\Coll - Ruteo - BaseMap - copia - copia\Coll\bin\ARM\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\ARM\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

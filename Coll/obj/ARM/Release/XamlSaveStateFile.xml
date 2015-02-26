@@ -1,6 +1,6 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-    <LocalAssembly PathName="c:\users\semillero\desktop\onmap\coll\obj\arm\release\intermediatexaml\coll.exe" HashGuid="2db8f5d9-89ed-4821-16c2-d667ef4f2824" />
+    <LocalAssembly PathName="c:\users\semillero\desktop\onmap\coll\obj\arm\release\intermediatexaml\coll.exe" HashGuid="2a14731c-731a-214b-425b-6d4e0c699700" />
     <ReferenceAssembly PathName="c:\program files (x86)\arcgis sdks\dotnet10.2.5\windowsphone\references\commonconfiguration\arm\esri.arcgisruntime.dll" HashGuid="2ecea36b-1f52-da42-cf70-2efe8ab26d00" />
     <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
     <ReferenceAssembly PathName="c:\program files (x86)\arcgis sdks\dotnet10.2.5\windowsphone\references\commonconfiguration\neutral\runtimecorenet.winmd" HashGuid="3c07ece0-7507-4766-7f00-22d4747be541" />

@@ -130,7 +130,8 @@
                         </DataTemplate>
                     </ListView.ItemTemplate>
                 </ListView>
-                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="5,0">
                     <AppBarButton x:Name="AddAttachButton" Icon="Attach" Click="AddAttachButton_Click"/>
                     <Image x:Name="displayImagePreview" Width="80" Height="80" />
                 </StackPanel>

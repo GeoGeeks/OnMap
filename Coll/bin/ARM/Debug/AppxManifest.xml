@@ -7,11 +7,11 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="aa18b3f9-effa-4005-ba5a-b51978a4df3e" Publisher="CN=SEMILLERO" Version="1.0.0.0" ProcessorArchitecture="arm" />
-  <mp:PhoneIdentity PhoneProductId="aa18b3f9-effa-4005-ba5a-b51978a4df3e" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Identity Name="44024GeoGeeks.OnMap" Publisher="CN=ACC8598F-73C7-4668-850D-FDBEB0172BA4" Version="1.1.0.0" ProcessorArchitecture="arm" />
+  <mp:PhoneIdentity PhoneProductId="eb6aee7a-2481-467e-8145-58c8cb4cca60" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>Coll</DisplayName>
-    <PublisherDisplayName>SEMILLERO</PublisherDisplayName>
+    <DisplayName>OnMap</DisplayName>
+    <PublisherDisplayName>GeoGeeks</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Prerequisites>

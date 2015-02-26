@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type='text/xsl' href='C:\ProgramData\Windows App Certification Kit\wp-results.xsl'?>
-<REPORT OVERALL_RESULT="PASS" VERSION="3.3" LATEST_VERSION="FALSE" UPDATE_DOWNLOAD_URL="http://go.microsoft.com/fwlink/?LinkID=246599&amp;amp;clcid=0x409" TOOLSET_ARCHITECTURE="X64" SecureBoot="FALSE" APP_TYPE="WindowsPhone" PUBLISHER_DISPLAY_NAME="GeoGeeks" APP_NAME="44024GeoGeeks.OnMap" APP_VERSION="1.1.0.0" OSVERSION="6.3.9600.0" OS="Microsoft Windows 8.1 Pro" PER_USER_APPLICATION="" PARTIAL_RUN="FALSE" LCID="3082" VALIDATION_TYPE="UI" ReportGenerationTime="25/02/2015 16:17:18" ID="3a106d18fd1edc6bcf64a034ee7566bc">
+<REPORT OVERALL_RESULT="PASS" VERSION="3.3" LATEST_VERSION="FALSE" UPDATE_DOWNLOAD_URL="http://go.microsoft.com/fwlink/?LinkID=246599&amp;amp;clcid=0x409" TOOLSET_ARCHITECTURE="X64" SecureBoot="FALSE" APP_TYPE="WindowsPhone" PUBLISHER_DISPLAY_NAME="GeoGeeks" APP_NAME="44024GeoGeeks.OnMap" APP_VERSION="1.1.0.1" OSVERSION="6.3.9600.0" OS="Microsoft Windows 8.1 Pro" PER_USER_APPLICATION="" PARTIAL_RUN="FALSE" LCID="3082" VALIDATION_TYPE="UI" ReportGenerationTime="26/02/2015 14:51:38" ID="8e240516c304b532051620f2de164a68">
   <REQUIREMENTS>
     <REQUIREMENT NUMBER="1" TITLE="Prueba de instalación limpia y reversible" RATIONALE="Las instalaciones limpias y reversibles permiten a los usuarios administrar (implementar y quitar) correctamente las aplicaciones de su sistema." />
     <REQUIREMENT NUMBER="2" TITLE="Prueba de instalación en carpetas correctas" RATIONALE="Windows proporciona ubicaciones específicas en el sistema de archivos para almacenar programas y componentes de software, datos de aplicaciones compartidas y datos de aplicaciones específicos de un usuario." />
@@ -14,109 +14,109 @@
     <REQUIREMENT NUMBER="10" TITLE="Prueba de bloqueos y errores por los que Windows deja de responder" RATIONALE="Los errores de las aplicaciones, como bloqueos y cuelgues, son un trastorno importante para los usuarios y causan frustración. La eliminación de dichos errores mejora la estabilidad y confiabilidad de las aplicaciones, y en general, proporciona a los usuariuos una mejor experiencia de las aplicaciones." />
     <REQUIREMENT NUMBER="11" TITLE="Prueba de compatibilidad y resistencia" RATIONALE="Cuando Windows detecta que una aplicación ha funcionado de forma incompatible, aplica una corrección de compatibilidad que hace que la aplicación se compote correctamente, lo que garantiza una experiencia positiva del usuario. Las aplicaciones no deben confiar en este comportamiento, ya que sólo se proporciona para que las aplicaciones heredades funcionen correctamente en Windows." />
     <REQUIREMENT NUMBER="12" TITLE="Prueba de conformidad del paquete" RATIONALE="Al manifiesto del paquete le faltaban uno o varios atributos requeridos.">
-      <TEST INDEX="77" NAME="Recuento de aplicaciones" DESCRIPTION="Un paquete no debe definir más de una aplicación en el manifiesto." EXECUTIONTIME="00h:00m:01s.61ms">
+      <TEST INDEX="77" NAME="Recuento de aplicaciones" DESCRIPTION="Un paquete no debe definir más de una aplicación en el manifiesto." EXECUTIONTIME="00h:00m:01s.66ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="31" NAME="Manifiesto de aplicación" DESCRIPTION="El manifiesto de aplicaciones debe incluir entradas válidas en todos los campos obligatorios." EXECUTIONTIME="00h:00m:07s.18ms">
+      <TEST INDEX="31" NAME="Manifiesto de aplicación" DESCRIPTION="El manifiesto de aplicaciones debe incluir entradas válidas en todos los campos obligatorios." EXECUTIONTIME="00h:00m:13s.67ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="74" NAME="Manifiesto del lote" DESCRIPTION="El manifiesto del lote debe incluir todas las entradas válidas para todos los campos obligatorios." EXECUTIONTIME="00h:00m:03s.55ms">
+      <TEST INDEX="74" NAME="Manifiesto del lote" DESCRIPTION="El manifiesto del lote debe incluir todas las entradas válidas para todos los campos obligatorios." EXECUTIONTIME="00h:00m:03s.53ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="75" NAME="Tamaño del paquete" DESCRIPTION="El tamaño de archivo del paquete no debe ser superior a 4 gigabytes." EXECUTIONTIME="00h:00m:02s.34ms">
+      <TEST INDEX="75" NAME="Tamaño del paquete" DESCRIPTION="El tamaño de archivo del paquete no debe ser superior a 4 gigabytes." EXECUTIONTIME="00h:00m:02s.36ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="13" TITLE="Prueba de prácticas recomendadas de seguridad de Windows" RATIONALE="Ninguna aplicación debe cambiar la configuración de seguridad predeterminada de Windows." />
     <REQUIREMENT NUMBER="14" TITLE="Prueba de características de seguridad de Windows" RATIONALE="Las aplicaciones debe elegir las características de seguridad de Windows.">
-      <TEST INDEX="33" NAME="Analizador de archivos binarios" DESCRIPTION="Análisis de las características de seguridad habilitadas en archivos binarios" EXECUTIONTIME="00h:00m:05s.24ms">
+      <TEST INDEX="33" NAME="Analizador de archivos binarios" DESCRIPTION="Análisis de las características de seguridad habilitadas en archivos binarios" EXECUTIONTIME="00h:00m:06s.50ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="70" NAME="Analizador de archivos prohibidos" DESCRIPTION="Análisis de la aplicación para detectar archivos conocidos como no seguros" EXECUTIONTIME="00h:00m:02s.57ms">
+      <TEST INDEX="70" NAME="Analizador de archivos prohibidos" DESCRIPTION="Análisis de la aplicación para detectar archivos conocidos como no seguros" EXECUTIONTIME="00h:00m:02s.51ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="62" NAME="Firma de código privado" DESCRIPTION="La aplicación no debe empaquetar archivos clave de firma de código privado." EXECUTIONTIME="00h:00m:02s.39ms">
+      <TEST INDEX="62" NAME="Firma de código privado" DESCRIPTION="La aplicación no debe empaquetar archivos clave de firma de código privado." EXECUTIONTIME="00h:00m:02s.51ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="15" TITLE="Prueba de API compatible" RATIONALE="La aplicación sólo debe hacer referencia a las API que permite Windows SDK para aplicaciones de la Tienda Windows.">
-      <TEST INDEX="72" NAME="API compatibles" DESCRIPTION="La aplicación de Windows Phone solo debe usar las API admitidas de la plataforma." EXECUTIONTIME="00h:00m:08s.42ms">
+      <TEST INDEX="72" NAME="API compatibles" DESCRIPTION="La aplicación de Windows Phone solo debe usar las API admitidas de la plataforma." EXECUTIONTIME="00h:00m:15s.98ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="17" TITLE="Prueba de rendimiento" RATIONALE="La aplicación debe tener una experiencia de inicio y suspensión rápida y que responda, y al mismo tiempo, consumir una cantidad razonable de recursos del sistema (CPU, E/S de archivos, memoria, etc.) para permitir el cambio rápido y la multitarea entre aplicaciones anteriormente sin abrir." />
     <REQUIREMENT NUMBER="19" TITLE="Prueba de recursos de manifiesto de aplicación" RATIONALE="El manifiesto del paquete de la aplicación debería tener recursos válidos definidos en el archivo resources.pri, en función de la especificación de paquetes de la aplicación y el esquema del manifiesto de la aplicación.">
-      <TEST INDEX="45" NAME="Validación de recursos de aplicaciones" DESCRIPTION="El paquete debe tener recursos válidos definidos en el archivo resources.pri." EXECUTIONTIME="00h:00m:00s.94ms">
+      <TEST INDEX="45" NAME="Validación de recursos de aplicaciones" DESCRIPTION="El paquete debe tener recursos válidos definidos en el archivo resources.pri." EXECUTIONTIME="00h:00m:00s.91ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="61" NAME="Validación de marca" DESCRIPTION="La aplicación no debe usar las imágenes predeterminadas empaquetadas por los ejemplos de Windows SDK o Visual Studio." EXECUTIONTIME="00h:00m:06s.67ms">
+      <TEST INDEX="61" NAME="Validación de marca" DESCRIPTION="La aplicación no debe usar las imágenes predeterminadas empaquetadas por los ejemplos de Windows SDK o Visual Studio." EXECUTIONTIME="00h:00m:07s.74ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="20" TITLE="Prueba de configuración Depurar" RATIONALE="La Aplicación no debe instalar binarios de depuración.">
-      <TEST INDEX="46" NAME="Configuración Depurar" DESCRIPTION="La Aplicación no debe instalar archivos binarios de depuración." EXECUTIONTIME="00h:00m:04s.26ms">
+      <TEST INDEX="46" NAME="Configuración Depurar" DESCRIPTION="La Aplicación no debe instalar archivos binarios de depuración." EXECUTIONTIME="00h:00m:05s.17ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="21" TITLE="Prueba de codificación de archivos" RATIONALE="Los paquetes que contienen una aplicación de la Tienda Windows HTML5 deben tener la codificación de archivos correcta.">
-      <TEST INDEX="49" NAME="Codificación de archivos UTF-8" DESCRIPTION="Los paquetes que contienen una aplicación de la Tienda Windows HTML5 deben tener la codificación de archivos correcta." EXECUTIONTIME="00h:00m:02s.81ms">
+      <TEST INDEX="49" NAME="Codificación de archivos UTF-8" DESCRIPTION="Los paquetes que contienen una aplicación de la Tienda Windows HTML5 deben tener la codificación de archivos correcta." EXECUTIONTIME="00h:00m:02s.75ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="22" TITLE="Prueba de característica de Direct3D" RATIONALE="La aplicación debe usar la característica de Direct3D correctamente." />
     <REQUIREMENT NUMBER="23" TITLE="Prueba de capacidades de la aplicación" RATIONALE="Durante el proceso de implementación, tendrá que proporcionar justificaciones para los paquetes que usan capacidades especiales.">
-      <TEST INDEX="52" NAME="Capacidades de uso especial" DESCRIPTION="Durante el proceso de implementación, tendrá que proporcionar justificaciones para los paquetes que usan capacidades especiales." EXECUTIONTIME="00h:00m:01s.59ms">
+      <TEST INDEX="52" NAME="Capacidades de uso especial" DESCRIPTION="Durante el proceso de implementación, tendrá que proporcionar justificaciones para los paquetes que usan capacidades especiales." EXECUTIONTIME="00h:00m:01s.77ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="24" TITLE="Validación de metadatos de Windows en tiempo de ejecución" RATIONALE="Los metadatos deben cumplir con los requisitos y ser consistentes en todos los orígenes de generación.">
-      <TEST INDEX="56" NAME="Prueba del atributo ExclusiveTo" DESCRIPTION="Una clase no debe implementar una interfaz que esté marcada como ExclusiveTo para otra clase." EXECUTIONTIME="00h:00m:01s.96ms">
+      <TEST INDEX="56" NAME="Prueba del atributo ExclusiveTo" DESCRIPTION="Una clase no debe implementar una interfaz que esté marcada como ExclusiveTo para otra clase." EXECUTIONTIME="00h:00m:02s.22ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="57" NAME="Prueba de ubicación de tipo" DESCRIPTION="Los tipos se deben definir en el archivo de metadatos con el espacio de nombres coincidente más largo." EXECUTIONTIME="00h:00m:00s.71ms">
+      <TEST INDEX="57" NAME="Prueba de ubicación de tipo" DESCRIPTION="Los tipos se deben definir en el archivo de metadatos con el espacio de nombres coincidente más largo." EXECUTIONTIME="00h:00m:00s.69ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="55" NAME="Prueba de distinción entre mayúsculas y minúsculas del nombre de tipo" DESCRIPTION="La variación entre espacio de nombres y nombres de tipo no debe radicar únicamente en el uso de mayúsculas o minúsculas." EXECUTIONTIME="00h:00m:00s.73ms">
+      <TEST INDEX="55" NAME="Prueba de distinción entre mayúsculas y minúsculas del nombre de tipo" DESCRIPTION="La variación entre espacio de nombres y nombres de tipo no debe radicar únicamente en el uso de mayúsculas o minúsculas." EXECUTIONTIME="00h:00m:00s.66ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="54" NAME="Prueba de exactitud del nombre de tipo" DESCRIPTION="Sólo los tipos de sistema pueden figurar en el espacio de nombres de Windows y no debe haber ningún tipo en el espacio de nombres global." EXECUTIONTIME="00h:00m:00s.74ms">
+      <TEST INDEX="54" NAME="Prueba de exactitud del nombre de tipo" DESCRIPTION="Sólo los tipos de sistema pueden figurar en el espacio de nombres de Windows y no debe haber ningún tipo en el espacio de nombres global." EXECUTIONTIME="00h:00m:00s.76ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="58" NAME="Prueba de exactitud de metadatos general" DESCRIPTION="Los archivos de metadatos deben cumplir con varios requisitos para ser considerados válidos y correctos." EXECUTIONTIME="00h:00m:02s.45ms">
+      <TEST INDEX="58" NAME="Prueba de exactitud de metadatos general" DESCRIPTION="Los archivos de metadatos deben cumplir con varios requisitos para ser considerados válidos y correctos." EXECUTIONTIME="00h:00m:03s.05ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
-      <TEST INDEX="53" NAME="Prueba de propiedades" DESCRIPTION="Las propiedades de indizador y solo escritura no se pueden usar. Los métodos getter y setter correspondientes deben coincidir en el tipo." EXECUTIONTIME="00h:00m:00s.76ms">
+      <TEST INDEX="53" NAME="Prueba de propiedades" DESCRIPTION="Las propiedades de indizador y solo escritura no se pueden usar. Los métodos getter y setter correspondientes deben coincidir en el tipo." EXECUTIONTIME="00h:00m:00s.70ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="25" TITLE="Prueba de comprobación del paquete" RATIONALE="Validación del contenido del paquete de la aplicación para comprobar que sea correcto.">
-      <TEST INDEX="63" NAME="Archivos apropiados para la plataforma" DESCRIPTION="La aplicación no debería instalar archivos que no coincidan con la arquitectura de procesador de destino." EXECUTIONTIME="00h:00m:03s.74ms">
+      <TEST INDEX="63" NAME="Archivos apropiados para la plataforma" DESCRIPTION="La aplicación no debería instalar archivos que no coincidan con la arquitectura de procesador de destino." EXECUTIONTIME="00h:00m:03s.79ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
     </REQUIREMENT>
     <REQUIREMENT NUMBER="26" TITLE="Compatibilidad con configuración elevada de ppp" RATIONALE="La aplicación necesita una configuración compatible con ppp para que la UI tenga una buena apariencia con las variadas configuraciones elevadas de ppp de las pantallas." />
     <REQUIREMENT NUMBER="27" TITLE="Prueba de uso de recursos" RATIONALE="Las tareas en segundo plano de WinJS deben llamar a close() para liberar el recurso.">
-      <TEST INDEX="68" NAME="Prueba de tarea en segundo plano de WinJS" DESCRIPTION="Las tareas en segundo plano de WinJS deben llamar a close() para liberar el recurso." EXECUTIONTIME="00h:00m:03s.83ms">
+      <TEST INDEX="68" NAME="Prueba de tarea en segundo plano de WinJS" DESCRIPTION="Las tareas en segundo plano de WinJS deben llamar a close() para liberar el recurso." EXECUTIONTIME="00h:00m:03s.69ms">
         <RESULT><![CDATA[PASS]]></RESULT>
         <MESSAGES />
       </TEST>
@@ -125,7 +125,7 @@
   <APPLICATIONS />
   <DEPENDENCY_INFORMATION>
     <AitStaticAnalysis Type="Template">
-      <AitFile ErrorCode="0" Name="Coll.exe" Id="000071772bffa5b3e3f6617582b1d0523153d55d2384">
+      <AitFile ErrorCode="0" Name="Coll.exe" Id="0000399f6a7050ce8649eee2619c2c495b1d912f58e9">
         <AitCategory Id="DotNet">
           <AitFeature Name="System.Action`1" />
           <AitFeature Name="System.AggregateException" />
@@ -394,6 +394,7 @@
           <AitFeature Name="Windows.Storage.ApplicationDataContainer" />
           <AitFeature Name="Windows.Storage.ApplicationDataContainer.get_Values" />
           <AitFeature Name="Windows.Storage.CreationCollisionOption" />
+          <AitFeature Name="Windows.Storage.FileAccessMode" />
           <AitFeature Name="Windows.Storage.IStorageFile" />
           <AitFeature Name="Windows.Storage.Pickers.FileOpenPicker" />
           <AitFeature Name="Windows.Storage.Pickers.FileOpenPicker..ctor" />
@@ -404,12 +405,13 @@
           <AitFeature Name="Windows.Storage.Pickers.PickerLocationId" />
           <AitFeature Name="Windows.Storage.Pickers.PickerViewMode" />
           <AitFeature Name="Windows.Storage.StorageFile" />
+          <AitFeature Name="Windows.Storage.StorageFile.OpenAsync" />
           <AitFeature Name="Windows.Storage.StorageFile.OpenSequentialReadAsync" />
-          <AitFeature Name="Windows.Storage.StorageFile.get_Path" />
           <AitFeature Name="Windows.Storage.StorageFolder" />
           <AitFeature Name="Windows.Storage.StorageFolder.CreateFileAsync" />
           <AitFeature Name="Windows.Storage.StorageFolder.GetFileAsync" />
           <AitFeature Name="Windows.Storage.Streams.IInputStream" />
+          <AitFeature Name="Windows.Storage.Streams.IRandomAccessStream" />
           <AitFeature Name="Windows.System.Launcher" />
           <AitFeature Name="Windows.System.Launcher.LaunchUriAsync" />
           <AitFeature Name="Windows.System.VirtualKey" />
@@ -600,7 +602,8 @@
           <AitFeature Name="Windows.UI.Xaml.Media.ImageSource" />
           <AitFeature Name="Windows.UI.Xaml.Media.Imaging.BitmapImage" />
           <AitFeature Name="Windows.UI.Xaml.Media.Imaging.BitmapImage..ctor" />
-          <AitFeature Name="Windows.UI.Xaml.Media.Imaging.BitmapImage.put_UriSource" />
+          <AitFeature Name="Windows.UI.Xaml.Media.Imaging.BitmapSource" />
+          <AitFeature Name="Windows.UI.Xaml.Media.Imaging.BitmapSource.SetSourceAsync" />
           <AitFeature Name="Windows.UI.Xaml.Navigation.NavigatedEventHandler" />
           <AitFeature Name="Windows.UI.Xaml.Navigation.NavigatedEventHandler..ctor" />
           <AitFeature Name="Windows.UI.Xaml.Navigation.NavigationCacheMode" />

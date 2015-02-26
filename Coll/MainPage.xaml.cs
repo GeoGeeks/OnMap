@@ -164,7 +164,7 @@ namespace Coll
 
         private async void RateUsButton_Click(object sender, RoutedEventArgs e)
         {
-            await Windows.System.Launcher.LaunchUriAsync(new Uri("ms-windows-store:reviewapp?appid=" + Windows.ApplicationModel.Package.Current.Id.Name));
+            await Windows.System.Launcher.LaunchUriAsync(new Uri("ms-windows-store:reviewapp?appid=96fe75f5-7e47-4e81-b915-4d519f44c74a"));
         }
     }
 }

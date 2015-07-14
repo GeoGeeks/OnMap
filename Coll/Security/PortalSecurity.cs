@@ -37,7 +37,6 @@ namespace Coll.Security
 						RedirectUri = REDIRECT_URI
 					}
 				};
-
 				IdentityManager.Current.RegisterServer(serverInfo);
 			}
             //if(IdentityManager.Current.Credentials.)

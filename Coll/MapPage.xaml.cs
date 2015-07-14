@@ -230,7 +230,7 @@ namespace Coll
 
         private async void mapView1_MapViewTapped(object sender, Esri.ArcGISRuntime.Controls.MapViewInputEventArgs e)
         {
-            if (MyMapView.Editor.IsActive)
+            if (MyMapView.Editor.IsActive || _layer == null)
                 return;
             _layer.ClearSelection();
 

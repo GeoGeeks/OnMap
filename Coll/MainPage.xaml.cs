@@ -134,7 +134,7 @@ namespace Coll
             catch (Exception ex)
             {
                 ResetVisibility();
-                var _x = new MessageDialog("No se ha iniciado sesión.").ShowAsync();
+                var _x = new MessageDialog("No se ha iniciado sesión." + ex.Message).ShowAsync();
             }
         }
 

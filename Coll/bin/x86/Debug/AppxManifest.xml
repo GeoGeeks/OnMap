@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="44024GeoGeeks.OnMap" Publisher="CN=ACC8598F-73C7-4668-850D-FDBEB0172BA4" Version="1.1.0.1" ProcessorArchitecture="x86" />
+  <Identity Name="44024GeoGeeks.OnMap" Publisher="CN=ACC8598F-73C7-4668-850D-FDBEB0172BA4" Version="1.1.0.2" ProcessorArchitecture="x86" />
   <mp:PhoneIdentity PhoneProductId="eb6aee7a-2481-467e-8145-58c8cb4cca60" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>OnMap</DisplayName>

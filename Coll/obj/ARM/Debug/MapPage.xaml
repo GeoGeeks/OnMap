@@ -118,20 +118,22 @@
                     <TextBlock Text="Nuevo Punto"  FontSize="24" FontWeight="Bold" Margin="5"/>
                 </Border>
 
-                <ListView x:Name="AttributesListView" SelectionMode="None" HorizontalAlignment="Center">
-                    <ListView.ItemTemplate>
-                        <DataTemplate>
-                            <StackPanel Orientation="Vertical" Margin="5">
-                                <TextBox x:ConnectionId='10' x:Name="AttributesListViewTextBox" Header="{Binding Name}"                                                 Width="300" Margin="5,5,5,0"/>
-                                <TextBlock Margin="5,0" >
+                <Grid MaxHeight="400">
+                    <ListView x:Name="AttributesListView" SelectionMode="None" HorizontalAlignment="Center">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Vertical" Margin="5">
+                                    <TextBox x:ConnectionId='10' x:Name="AttributesListViewTextBox" Header="{Binding Name}"                                                 Width="300" Margin="5,5,5,0"/>
+                                    <TextBlock Margin="5,0" >
                                     <Run Text="[" />
                                     <Run Text="{Binding Type}" />
                                     <Run Text="]" />
-                                </TextBlock>
-                            </StackPanel>
-                        </DataTemplate>
-                    </ListView.ItemTemplate>
-                </ListView>
+                                    </TextBlock>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </Grid>
                 
                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="5,0">
                     <AppBarButton x:ConnectionId='9' x:Name="AddAttachButton" Icon="Attach"                              />
@@ -160,7 +162,7 @@
 
                     <Grid Margin="0,5">
                         <ListView x:ConnectionId='6' x:Name="listDirections"  Visibility="Collapsed" MaxHeight="440"
-                               ItemsSource="{Binding ElementName=MyMapView, Path=GraphicsOverlays[2].Graphics}"
+                               ItemsSource="{Binding ElementName=MyMapView, Path=GraphicsOverlays[3].Graphics}"
                               SelectionMode="Single"                                                   >
                             <ListView.ItemContainerStyle>
                                 <Style TargetType="ListViewItem">

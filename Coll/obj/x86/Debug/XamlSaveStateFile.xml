@@ -1,8 +1,8 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="c:\users\juancamilo\desktop\coll - ruteo - basemap\coll\obj\x86\debug\intermediatexaml\coll.exe" HashGuid="6b496dae-7d12-f19d-d44e-8f974d29bdd4" />
-    <ReferenceAssembly PathName="c:\program files (x86)\arcgis sdks\dotnet10.2.5\windowsphone\references\commonconfiguration\x86\esri.arcgisruntime.dll" HashGuid="eccbf211-f33c-bb40-7f1b-0dc4140fdbcf" />
+    <ReferenceAssembly PathName="c:\program files (x86)\arcgis sdks\dotnet10.2.6\windowsphone\references\commonconfiguration\x86\esri.arcgisruntime.dll" HashGuid="1e18ce30-6b9b-64e1-005d-a11a411039ad" />
     <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
-    <ReferenceAssembly PathName="c:\program files (x86)\arcgis sdks\dotnet10.2.5\windowsphone\references\commonconfiguration\neutral\runtimecorenet.winmd" HashGuid="3c07ece0-7507-4766-7f00-22d4747be541" />
+    <ReferenceAssembly PathName="c:\program files (x86)\arcgis sdks\dotnet10.2.6\windowsphone\references\commonconfiguration\neutral\runtimecorenet.winmd" HashGuid="b746f0ce-a2db-66c4-380f-f306b50954f0" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

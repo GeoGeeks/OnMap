@@ -15,8 +15,8 @@
 	Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
     <Page.Resources>
         <loc:LocationDisplay x:Key="locationDisplaySettings"
-                                      IsEnabled="false" 
-                                      AutoPanMode="off"  />
+                                      IsEnabled="False" 
+                                      AutoPanMode="Off"  />
         <MenuFlyout x:Key="LocationMenuFlyout" >
             <MenuFlyout.MenuFlyoutPresenterStyle>
                 <Style TargetType="MenuFlyoutPresenter">
@@ -43,7 +43,7 @@
                                   Symbol="{StaticResource HighlightMarkerSymbol}" />
 
     </Page.Resources>
-    <Grid x:Name="LayoutRoot" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid x:Name="LayoutRoot" Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
         <Grid.Resources>
             <symb:SimpleLineSymbol x:Key="routeSymbol" Color="#30C6A2" Width="6" Style="Solid" />
             <symb:SimpleRenderer x:Key="routesRenderer" Symbol="{StaticResource routeSymbol}" />
@@ -91,12 +91,14 @@
                 </Border>
             </ControlTemplate>
 
-        </Grid.Resources>        
+        </Grid.Resources>
 
         <esri:MapView x:Name="MyMapView" LocationDisplay="{StaticResource locationDisplaySettings}"  MapViewHolding="MyMapView_MapViewHolding" FlyoutBase.AttachedFlyout="{StaticResource LocationMenuFlyout}" MapViewTapped="mapView1_MapViewTapped">
             <esri:MapView.GraphicsOverlays>
                 <esri:GraphicsOverlay ID="RoutesOverlay"  Renderer="{StaticResource routesRenderer}"/>
                 <esri:GraphicsOverlay ID="StopsOverlay" />
+
+                <esri:GraphicsOverlay ID="LocationOverlay" />
                 
                 <esri:GraphicsOverlay ID="DirectionsOverlay" Renderer="{StaticResource directionsRenderer}" SelectionColor="#CCFF0000" />
                 
@@ -195,7 +197,7 @@
     </Grid>
     <Page.BottomAppBar >
         <CommandBar Background="#30C6A2" IsOpen="True" IsSticky="True">
-            <AppBarToggleButton x:Name="LocationButton" Label="Ubicación" Icon="Target" IsChecked="{Binding IsEnabled, Source={StaticResource locationDisplaySettings}, Mode=TwoWay}"  Checked="LocationButton_Checked" Unchecked="LocationButton_Unchecked"/>
+            <AppBarToggleButton x:Name="LocationButton" Label="Ubicación" Icon="Target" IsChecked="False" Checked="LocationButton_Checked" Unchecked="LocationButton_Unchecked"/>
             
             <AppBarButton x:Name="GeocodeAppBarButton" Label="Buscar" Icon="Find" >
                 <AppBarButton.Flyout >

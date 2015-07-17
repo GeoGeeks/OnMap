@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="44024GeoGeeks.OnMap" Publisher="CN=ACC8598F-73C7-4668-850D-FDBEB0172BA4" Version="1.1.0.2" ProcessorArchitecture="arm" />
+  <Identity Name="44024GeoGeeks.OnMap" Publisher="CN=ACC8598F-73C7-4668-850D-FDBEB0172BA4" Version="1.1.0.3" ProcessorArchitecture="arm" />
   <mp:PhoneIdentity PhoneProductId="eb6aee7a-2481-467e-8145-58c8cb4cca60" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>OnMap</DisplayName>
@@ -34,6 +34,7 @@
     <Capability Name="picturesLibrary" />
     <DeviceCapability Name="location" />
     <DeviceCapability Name="webcam" />
+    <DeviceCapability Name="proximity" />
   </Capabilities>
   <Dependencies>
     <PackageDependency Name="Microsoft.VCLibs.120.00.Phone.Debug" MinVersion="12.0.30113.0" />
@@ -42,63 +43,8 @@
     <Extension Category="windows.activatableClass.inProcessServer">
       <InProcessServer>
         <Path>RuntimeCoreNet.dll</Path>
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreGroupLayer" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.MapPanel" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreFieldDefinition" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CorePictureFillSymbol" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreRampInterpolator" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreTableDefinition" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreLocatorTask" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreAttributes" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreCompositeSymbol" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreUnit" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreMap" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreDatabase" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreMessageProcessor" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreJson" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreTileInfo" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreArcGISLocalTiledLayer" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreSimpleLineSymbol" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreFeatureCacheLayer" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreTextSymbol" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreSimpleFillSymbol" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreAttachment" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreTimeClassBreaks" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.HitTestRequest" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CorePictureMarkerSymbol" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreClassBreaksRenderer" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreRouteTask" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreSymbolDictionary" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreS57Layer" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreSpatialReference" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreQueryDefinition" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreMultipoint" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreTimeClassBreaksAger" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreRouteCancel" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreClassBreakInfo" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreUniqueValueRenderer" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreEnvironment" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CorePolyline" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreTrace" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreTiledLayer" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreLicense" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CorePoint" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreFeatureSet" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreSimpleRenderer" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreQueryFilter" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.DirectXPanelBase" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreFeatureSource" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreUniqueValueInfo" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreGeometryEngine" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreDynamicLayer" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreDynamicLayerInitInfo" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreSimpleMarkerSymbol" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreFeatureCache" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreGraphicsLayer" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CorePolygon" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreSymbol" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreTemporalRenderer" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreEnvelope" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="RuntimeCoreNet.CoreInitDrawSurface" ThreadingModel="both" />
       </InProcessServer>
     </Extension>
   </Extensions>
@@ -109,7 +55,7 @@
     <build:Item Name="OperatingSystem" Version="6.3.9600.16384 (winblue_rtm.130821-1623)" />
     <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="12.0.30501.0" />
     <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="12.0.30501.0" />
-    <build:Item Name="Esri.ArcGISRuntime" Version="10.2.5" />
-    <build:Item Name="MakePri.exe" Version="6.3.9600.17029 (winblue_gdr.140219-1702)" />
+    <build:Item Name="Esri.ArcGISRuntime" Version="10.2.6" />
+    <build:Item Name="MakePri.exe" Version="6.3.9600.17336 (winblue.150226-1500)" />
   </build:Metadata>
 </Package>

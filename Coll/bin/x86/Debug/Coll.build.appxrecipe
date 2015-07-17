@@ -19,109 +19,331 @@
     <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\bin\x86\Debug\Coll.exe">
       <PackagePath>Coll.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\References\CommonConfiguration\x86\Esri.ArcGISRuntime.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\References\CommonConfiguration\x86\Esri.ArcGISRuntime.dll">
       <PackagePath>Esri.ArcGISRuntime.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\References\CommonConfiguration\neutral\RuntimeCoreNet.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\References\CommonConfiguration\neutral\RuntimeCoreNet.winmd">
       <PackagePath>RuntimeCoreNet.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\Esri.ArcGISRuntime\Themes\Generic.xbf">
-      <PackagePath>Esri.ArcGISRuntime\Themes\Generic.xbf</PackagePath>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\depth_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\depth_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\pedata\gtdefaults.json">
-      <PackagePath>RuntimeCoreNet\resources\pedata\gtdefaults.json</PackagePath>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\depth_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\depth_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\Esri.ArcGISRuntime\Logo.scale-100.png">
-      <PackagePath>Esri.ArcGISRuntime\Logo.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\image_renderer_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\image_renderer_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\Esri.ArcGISRuntime\Logo.scale-180.png">
-      <PackagePath>Esri.ArcGISRuntime\Logo.scale-180.png</PackagePath>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\image_renderer_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\image_renderer_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\magnifier_ps_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\magnifier_ps_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\magnifier_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\magnifier_vs_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\magnifier_vs_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\magnifier_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\offscreen_buffer_ps_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\model_light_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\model_light_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\model_light_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\model_light_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\model_shadow_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\model_shadow_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\model_shadow_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\model_shadow_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\offscreen_buffer_ps_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\offscreen_buffer_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\offscreen_buffer_vs_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\offscreen_buffer_vs_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\offscreen_buffer_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\screen_image_renderer_ps_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\off_center_point_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\off_center_point_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\off_center_point_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\off_center_point_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\off_center_selected_point_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\off_center_selected_point_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\off_center_selected_point_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\off_center_selected_point_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\outline_effect_instanced_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\outline_effect_instanced_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\outline_effect_instanced_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\outline_effect_instanced_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\outline_effect_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\outline_effect_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\outline_effect_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\outline_effect_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\phong_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\phong_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\phong_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\phong_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\phong_instanced_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\phong_instanced_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\phong_instanced_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\phong_instanced_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\phong_texture_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\phong_texture_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\phong_texture_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\phong_texture_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\phong_texture_instanced_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\phong_texture_instanced_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\phong_texture_instanced_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\phong_texture_instanced_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\point_draw_overlay_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\point_draw_overlay_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\point_draw_overlay_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\point_draw_overlay_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\point_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\point_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\point_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\point_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\polygon_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\polygon_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\polygon_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\polygon_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\polygon_extrusion_draw_instanced_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\polygon_extrusion_draw_instanced_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\polygon_extrusion_draw_instanced_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\polygon_extrusion_draw_instanced_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\polygon_extrusion_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\polygon_extrusion_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\polygon_extrusion_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\polygon_extrusion_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\polygon_overlay_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\polygon_overlay_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\polygon_overlay_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\polygon_overlay_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\polyline_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\polyline_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\polyline_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\polyline_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\polyline_extrusion_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\polyline_extrusion_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\polyline_extrusion_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\polyline_extrusion_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\polyline_overlay_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\polyline_overlay_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\polyline_overlay_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\polyline_overlay_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\screen_image_renderer_ps_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\screen_image_renderer_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\screen_image_renderer_vs_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\screen_image_renderer_vs_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\screen_image_renderer_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_area_pick_ps_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\screen_overlay_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\screen_overlay_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\screen_overlay_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\screen_overlay_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_area_pick_ps_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_area_pick_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_area_pick_vs_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_area_pick_vs_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_area_pick_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_area_ps_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_area_ps_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_area_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_area_vs_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_area_vs_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_area_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_halo_ps_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_halo_ps_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_line_halo_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_halo_vs_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_halo_vs_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_line_halo_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_pick_ps_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_pick_ps_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_line_pick_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_pick_vs_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_pick_vs_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_line_pick_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_ps_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_ps_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_line_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_vs_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_line_vs_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_line_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_halo_ps_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_halo_ps_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_point_halo_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_halo_vs_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_halo_vs_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_point_halo_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_pick_ps_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_pick_ps_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_point_pick_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_pick_vs_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_pick_vs_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_point_pick_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_ps_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_ps_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_point_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_vs_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\seq_render_point_vs_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\seq_render_point_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\simple_grid_ps_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\simple_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\simple_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\simple_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\simple_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\simple_grid_ps_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\simple_grid_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\simple_grid_vs_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\simple_grid_vs_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\simple_grid_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tex_quad_shader_program_advanced_ps_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\skybox_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\skybox_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\skybox_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\skybox_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\star_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\star_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\star_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\star_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\textured_atmosphere_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\textured_atmosphere_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\textured_atmosphere_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\textured_atmosphere_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\texture_draw_instanced_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\texture_draw_instanced_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\texture_draw_instanced_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\texture_draw_instanced_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\texture_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\texture_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\texture_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\texture_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\text_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\text_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\text_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\text_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tex_quad_shader_program_advanced_ps_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\tex_quad_shader_program_advanced_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tex_quad_shader_program_advanced_vs_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tex_quad_shader_program_advanced_vs_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\tex_quad_shader_program_advanced_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tex_quad_shader_program_ps_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tex_quad_shader_program_ps_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\tex_quad_shader_program_ps_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tex_quad_shader_program_vs_4_0.cso">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tex_quad_shader_program_vs_4_0.cso">
       <PackagePath>RuntimeCoreNet\resources\shaders\tex_quad_shader_program_vs_4_0.cso</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.5\WindowsPhone\Redist\CommonConfiguration\x86\RuntimeCoreNet.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tile_cavas_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tile_cavas_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tile_cavas_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tile_cavas_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tile_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tile_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tile_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tile_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tile_ground_overlay_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tile_ground_overlay_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tile_ground_overlay_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tile_ground_overlay_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tile_light_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tile_light_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tile_light_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tile_light_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tile_shadow_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tile_shadow_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tile_shadow_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tile_shadow_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tube_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tube_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tube_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tube_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tube_outline_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tube_outline_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\tube_outline_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\tube_outline_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\water_draw_ps_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\water_draw_ps_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\shaders\water_draw_vs_4_0.cso">
+      <PackagePath>RuntimeCoreNet\resources\shaders\water_draw_vs_4_0.cso</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\Esri.ArcGISRuntime\Themes\Generic.xbf">
+      <PackagePath>Esri.ArcGISRuntime\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\RuntimeCoreNet\resources\pedata\gtdefaults.json">
+      <PackagePath>RuntimeCoreNet\resources\pedata\gtdefaults.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\Esri.ArcGISRuntime\Logo.scale-100.png">
+      <PackagePath>Esri.ArcGISRuntime\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\neutral\Esri.ArcGISRuntime\Logo.scale-180.png">
+      <PackagePath>Esri.ArcGISRuntime\Logo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\ArcGIS SDKs\DotNet10.2.6\WindowsPhone\Redist\CommonConfiguration\x86\RuntimeCoreNet.dll">
       <PackagePath>RuntimeCoreNet.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\SEMILLERO\Desktop\OnMap\Coll\Assets\CollPin.png">

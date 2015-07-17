@@ -28,5 +28,6 @@
     <Capability Name="picturesLibrary" />
     <DeviceCapability Name="location" />
     <DeviceCapability Name="webcam" />
+    <DeviceCapability Name="proximity" />
   </Capabilities>
 </Package>

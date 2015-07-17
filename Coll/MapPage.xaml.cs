@@ -50,6 +50,7 @@ namespace Coll
         private GraphicsOverlay _stopsOverlay;
         private GraphicsOverlay _routesOverlay;
         private GraphicsOverlay _directionsOverlay;
+        private GraphicsOverlay _myLocationOverlay;
 
         private FeatureLayer _layer;
         private ArcGISFeatureTable _table;
@@ -59,12 +60,11 @@ namespace Coll
         public MapPage()
         {
             this.InitializeComponent();
-            HardwareButtons.BackPressed += HardwareButtons_BackPressed;
-            
+
             MyMapView.LocationDisplay.LocationProvider = new SystemLocationProvider();
             MyMapView.LocationDisplay.LocationProvider.StartAsync();
 
-            InitializeComponent();
+            HardwareButtons.BackPressed += HardwareButtons_BackPressed;
 
             MyMapView.Loaded += MyMapView_Loaded;
             _locatorTask = new OnlineLocatorTask(new Uri(OnlineLocatorUrl));
@@ -74,6 +74,7 @@ namespace Coll
             _stopsOverlay = MyMapView.GraphicsOverlays["StopsOverlay"];
             _routesOverlay = MyMapView.GraphicsOverlays["RoutesOverlay"];
             _directionsOverlay = MyMapView.GraphicsOverlays["DirectionsOverlay"];
+            _myLocationOverlay = MyMapView.GraphicsOverlays["LocationOverlay"];
             _routeTask = new OnlineRouteTask(new Uri(OnlineRoutingService));
 
             _campos = new Dictionary<String, String>();
@@ -158,10 +159,19 @@ namespace Coll
 
         private void LocationButton_Checked(object sender, RoutedEventArgs e)
         {
+            _myLocationOverlay.Graphics.Clear();
             var point = MyMapView.LocationDisplay.CurrentLocation.Location;
             var buffer = GeometryEngine.GeodesicBuffer(point, 300, LinearUnits.Meters);
             MyMapView.SetView(buffer.Extent);
-            MyMapView.LocationDisplay.AutoPanMode = AutoPanMode.Default;
+
+            var symbol = new PictureMarkerSymbol() { Width = 48, Height = 48, YOffset = 24 };
+            symbol.SetSourceAsync(new Uri("ms-appx:///Assets/CollPin.png"));
+            var graphic = new Graphic()
+            {
+                Geometry = point,
+                Symbol = symbol
+            };
+            _myLocationOverlay.Graphics.Add(graphic);
         }
 
         private async void GeocodeButton_Click(object sender, RoutedEventArgs e)
@@ -344,12 +354,12 @@ namespace Coll
                 MapView.SetViewOverlayAnchor(overlay, e.Location);
                 MyMapView.Overlays.Items.Add(overlay);
             }
-            catch (AggregateException aex)
+            catch (AggregateException)
 			{
 				//var _x = new MessageDialog(aex.InnerExceptions[0].Message, "Reverse Geocode").ShowAsync();
                 return;
 			}
-			catch (Exception ex)
+			catch (Exception)
 			{
 				//var _x = new MessageDialog(ex.Message, "Reverse Geocode").ShowAsync();
                 return;
@@ -486,6 +496,7 @@ namespace Coll
 
         private void LocationButton_Unchecked(object sender, RoutedEventArgs e)
         {
+            _myLocationOverlay.Graphics.Clear();
             MenuFlyoutGotoButton.IsEnabled = false;
         }
 

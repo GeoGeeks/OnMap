@@ -10,7 +10,6 @@
     <RootPropertyPathName Name="Attributes" />
     <RootPropertyPathName Name="Type" />
     <RootPropertyPathName Name="Name" />
-    <RootPropertyPathName Name="IsEnabled" />
     <RootPropertyPathName Name="ThumbnailUri" />
     <RootPropertyPathName Name="Title" />
     <RootPropertyPathName Name="Description" />
@@ -35,6 +34,7 @@
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Margin" />
+      <RootProperty Name="MaxHeight" />
       <RootProperty Name="RowDefinitions" />
       <RootProperty Name="ColumnDefinitions" />
       <RootMethod Name="GetRow" />
@@ -190,8 +190,6 @@
     <RootType FullName="Windows.UI.Xaml.Data.Binding">
       <RootProperty Name="ElementName" />
       <RootProperty Name="Path" />
-      <RootProperty Name="Source" />
-      <RootProperty Name="Mode" />
       <RootProperty Name="Converter" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Documents.Run">

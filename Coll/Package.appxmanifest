@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
-  <Identity Name="44024GeoGeeks.OnMap" Publisher="CN=ACC8598F-73C7-4668-850D-FDBEB0172BA4" Version="1.1.0.3" />
+  <Identity Name="44024GeoGeeks.OnMap" Publisher="CN=ACC8598F-73C7-4668-850D-FDBEB0172BA4" Version="1.1.0.4" />
   <mp:PhoneIdentity PhoneProductId="eb6aee7a-2481-467e-8145-58c8cb4cca60" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>OnMap</DisplayName>
